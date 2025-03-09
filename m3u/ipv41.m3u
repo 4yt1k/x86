@@ -133,14 +133,6 @@ https://cdn.163189.xyz/live/fhzw/stream.m3u8
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
-http://4iptv.dynv6.net:35455/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://4iptv.dynv6.net:35455/youtube/vr3XyVCR4T0
-#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBSNews" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🚩｜港•澳•台",TVBSNews
-http://4iptv.dynv6.net:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
-http://4iptv.dynv6.net:35455/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://4iptv.dynv6.net:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
