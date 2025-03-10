@@ -69,8 +69,6 @@ http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873461.m3u8
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="❄️｜卫视频道",东方卫视
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873462.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京4K
-http://4iptv.dynv6.net:8355/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="❄️｜卫视频道",北京卫视
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003870776.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="❄️｜卫视频道",深圳卫视
@@ -92,7 +90,7 @@ http://4iptv.dynv6.net:8355/bptv/10000100000000050000000004796458.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="❄️｜卫视频道",贵州卫视
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873471.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
-http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003887453.m3u8
+http://4iptv.dynv6.net:8355/itv/5000000011000031120.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="❄️｜卫视频道",山东卫视
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873467.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="❄️｜卫视频道",河北卫视
@@ -141,6 +139,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="⚽️｜体育频道",纬来体育
+http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="⚽️｜体育频道",五星体育
@@ -178,7 +178,7 @@ http://4iptv.dynv6.net:8355/itv/1000000002000025964.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://4iptv.dynv6.net:8355/gaoma/cgtnen.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="🌐｜国际频道",亚洲新闻[新加坡]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="🌐｜国际频道",美国CNN
@@ -191,3 +191,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="🌐｜国际频道",半岛电视台[卡塔尔]
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-name="德国之声" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="🌐｜国际频道",德国之声
+http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="日本NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="🌐｜国际频道",日本NHK
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
