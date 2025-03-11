@@ -98,7 +98,7 @@ http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003873460.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
 http://202.102.201.244:40022/rtp/238.1.79.65:4632
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
-http://4iptv.dynv6.net:8355/bptv/10000100000000050000000003887413.m3u8
+http://4iptv.dynv6.net:8355/itv/1000000002000021220.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 http://4iptv.dynv6.net:8355/itv/1000000002000007495.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
