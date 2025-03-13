@@ -128,7 +128,7 @@ https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="🚩｜港•澳•台",无线新闻台
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
@@ -155,6 +155,8 @@ http://192.168.8.2:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 http://8.218.29.119:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="⚽️｜体育频道",魅力足球
 http://8.218.29.119:50001/TVOD/5000000011000031207/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="智慧賽馬" tvg-name="智慧賽馬" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/28ai.png" group-title="⚽️｜体育频道",智慧賽馬
+http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🌸| 影剧频道",北京IPTV4K
 http://192.168.8.2:35455/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/btv-cwjd.png" group-title="🌸| 影剧频道",BTV-重温经典
@@ -167,8 +169,6 @@ http://192.168.8.2:35455/bptv/10000100000000050000000003887498.m3u8
 http://192.168.8.2:35455/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/iqiyi.png" group-title="🌸| 影剧频道",爱奇艺
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="🌈| 少儿动画",北京淘BABY
