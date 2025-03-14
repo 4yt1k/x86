@@ -163,6 +163,10 @@ http://110.238.106.29:50001/2000000003000000001/hnbblive/index.m3u8
 http://110.238.106.29:50001/5000000007000010001/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="🌸| 影剧频道",东方影视
 http://110.238.106.29:50001/5000000010000032212/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
+http://110.238.106.29:50001/5000000011000031111/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
+http://110.238.106.29:50001/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://110.238.106.29:50001/7851974109718180595/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
