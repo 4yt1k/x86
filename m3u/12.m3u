@@ -139,8 +139,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://192.168.1.2:35455/bptv/10000100000000050000000003870779.m3u8
-#EXTINF:-1 tvg-id="智慧賽馬" tvg-name="智慧賽馬" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/28ai.png" group-title="⚽️｜体育频道",智慧賽馬
-http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-id="红牛体育" tvg-name="红牛体育" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="⚽️｜体育频道",红牛体育
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🌸| 影剧频道",北京IPTV4K
 http://192.168.1.2:35455/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/btv-cwjd.png" group-title="🌸| 影剧频道",BTV-重温经典
