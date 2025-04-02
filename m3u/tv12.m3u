@@ -279,6 +279,14 @@ http://192.168.1.2:35455/bptv/10000100000000050000000003870779.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="智慧賽馬" tvg-name="智慧賽馬" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/28ai.png" group-title="⚽️｜体育频道",智慧賽馬
 http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
+http://192.168.1.2:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
+http://192.168.1.2:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
+http://192.168.1.2:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
+http://192.168.1.2:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🌸| 影剧频道",北京IPTV4K
 http://192.168.1.2:35455/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/btv-cwjd.png" group-title="🌸| 影剧频道",BTV-重温经典
@@ -293,8 +301,12 @@ http://192.168.1.2:35455/bptv/10000100000000050000000003887499.m3u8
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/iqiyi.png" group-title="🌸| 影剧频道",爱奇艺
+http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="🌈| 少儿动画",北京淘BABY
 http://192.168.1.2:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="🌈| 少儿动画",北京萌宠TV
+http://192.168.8.2:35455/bptv/10000100000000050000000003887495.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://192.168.1.2:35455/bptv/10000100000000050000000003904597.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
