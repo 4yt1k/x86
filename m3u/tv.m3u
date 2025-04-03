@@ -463,6 +463,10 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://192.168.8.2:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 tvg-id="espnsports" tvg-name="espnsports" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="⚽️｜体育频道",ESPN体育
+http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+#EXTINF:-1 tvg-id="红牛体育" tvg-name="红牛体育" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="⚽️｜体育频道",红牛体育
+http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 tvg-id="红牛体育" tvg-name="红牛体育" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="⚽️｜体育频道",红牛体育
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="智慧賽馬" tvg-name="智慧賽馬" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/28ai.png" group-title="⚽️｜体育频道",智慧賽馬
