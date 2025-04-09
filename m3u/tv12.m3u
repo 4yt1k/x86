@@ -237,6 +237,8 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://192.168.1.2:35455/bptv/10000100000000050000000003887456.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="❄️｜卫视频道",CETV1
 http://202.102.201.244:40022/rtp/238.1.78.158:7136
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/TVB_Plus.jpg" group-title="🚩｜港•澳•台",TVB Plus
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
@@ -281,8 +283,6 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 tvg-id="红牛体育" tvg-name="红牛体育" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="⚽️｜体育频道",红牛体育
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="智慧賽馬" tvg-name="智慧賽馬" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/28ai.png" group-title="⚽️｜体育频道",智慧賽馬
-http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://192.168.1.2:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
