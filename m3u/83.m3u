@@ -159,8 +159,6 @@ http://192.168.8.3:35455/bptv/10000100000000050000000003887498.m3u8
 http://192.168.8.3:35455/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/iqiyi.png" group-title="🌸| 影剧频道",爱奇艺
-http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
 http://113.205.60.170:8004/udp/225.0.4.228:7980
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
