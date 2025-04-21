@@ -24,7 +24,7 @@ http://123.157.31.182:7912/rtp/233.50.201.121:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌏｜央视频道",CCTV-10科教
 http://123.157.31.182:7912/rtp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🌏｜央视频道",CCTV-11戏曲
-http://107.174.52.32/itv.php?id=CCTV11
+http://113.205.60.170:8004/udp/225.0.4.218:7980
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🌏｜央视频道",CCTV-12社会与法
 http://123.157.31.182:7912/rtp/233.50.201.123:5140
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🌏｜央视频道",CCTV-13新闻
