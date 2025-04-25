@@ -119,8 +119,6 @@ https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7
 http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https:/epg.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https:/epg.112114.xyz/logo/CETV1.png" group-title="❄️｜卫视频道",CETV1
-http://1.203.111.10:19999/udp/225.1.8.32:8152
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/https://github.com/4yt1k/x86/blob/main/logo/TVB_Plus.jpg" group-title="🚩｜港•澳•台",TVB Plus
 http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https:/epg.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
@@ -183,8 +181,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/inde
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Neimeng5.png" group-title="🌈| 少儿动画",内蒙少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https:/epg.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https:/epg.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.cn/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
