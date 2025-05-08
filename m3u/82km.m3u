@@ -35,24 +35,6 @@ http://39.134.65.106/TVOD/88888888/224/3221226132/main.m3u8
 http://39.134.65.106/TVOD/88888888/224/3221226127/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https:/epg.112114.xyz/logo/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://39.134.65.106/TVOD/88888888/224/3221225708/main.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https:/epg.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://202.102.201.244:40022/rtp/238.1.79.57:4592
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https:/epg.112114.xyz/logo/央视台球.png" group-title="🎱｜数字频道",央视台球
-http://202.102.201.244:40022/rtp/238.1.79.59:4608
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https:/epg.112114.xyz/logo/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://202.102.201.244:40022/rtp/238.1.79.64:4648
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https:/epg.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://202.102.201.244:40022/rtp/238.1.79.62:4632
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https:/epg.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://202.102.201.244:40022/rtp/238.1.79.63:4640
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https:/epg.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://202.102.201.244:40022/rtp/238.1.79.61:4624
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https:/epg.112114.xyz/logo/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-http://202.102.201.244:40022/rtp/238.1.79.56:4584
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https:/epg.112114.xyz/logo/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-http://202.102.201.244:40022/rtp/238.1.79.55:4576
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https:/epg.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://202.102.201.244:40022/rtp/238.1.79.60:4616
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https:/epg.112114.xyz/logo/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https:/epg.112114.xyz/logo/江苏卫视.png" group-title="❄️｜卫视频道",江苏卫视
@@ -193,6 +175,8 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/inde
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Neimeng5.png" group-title="🌈| 少儿动画",内蒙少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="爱自然4K" tvg-logo="https:/epg.112114.xyz/logo/LoveNature.png" group-title="🌈| 少儿动画",爱自然4K
+https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https:/epg.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.cn/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
