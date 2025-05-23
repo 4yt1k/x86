@@ -11,8 +11,6 @@ http://39.134.65.106/TVOD/88888888/224/3221226092/main.m3u8
 http://39.134.65.106/TVOD/88888888/224/3221225818/main.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https:/epg.112114.xyz/logo/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://39.134.65.106/TVOD/88888888/224/3221225507/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https:/epg.112114.xyz/logo/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://39.134.65.106/TVOD/88888888/224/3221225893/main.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https:/epg.112114.xyz/logo/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
 http://39.134.65.106/TVOD/88888888/224/3221225814/main.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https:/epg.112114.xyz/logo/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
@@ -33,6 +31,8 @@ http://39.134.65.106/TVOD/88888888/224/3221226125/main.m3u8
 http://39.134.65.106/TVOD/88888888/224/3221226132/main.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https:/epg.112114.xyz/logo/CCTV15.png" group-title="🌏｜央视频道",CCTV-15音乐
 http://39.134.65.106/TVOD/88888888/224/3221226127/main.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https:/epg.112114.xyz/logo/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
+http://39.134.65.106/TVOD/88888888/224/3221225893/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https:/epg.112114.xyz/logo/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://39.134.65.106/TVOD/88888888/224/3221225708/main.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https:/epg.112114.xyz/logo/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
@@ -117,6 +117,8 @@ https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
 https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 https://smart.pendy.dpdns.org/youtube.php?id=V1p33hqPrUk
+#EXTINF:-1 tvg-id="红牛体育" tvg-name="红牛体育" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="⚽️｜体育频道",红牛体育
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="⚽️｜体育频道",北京体育
 http://192.168.8.2:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https:/epg.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
