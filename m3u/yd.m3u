@@ -11,8 +11,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/inde
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https:/epg.112114.xyz/logo/CCTV5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https:/epg.112114.xyz/logo/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https:/epg.112114.xyz/logo/CCTV6.png" group-title="🌏｜央视频道",CCTV-6电影
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https:/epg.112114.xyz/logo/CCTV7.png" group-title="🌏｜央视频道",CCTV-7军事
@@ -33,6 +31,8 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/inde
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https:/epg.112114.xyz/logo/CCTV15.png" group-title="🌏｜央视频道",CCTV-15音乐
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https:/epg.112114.xyz/logo/CCTV16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https:/epg.112114.xyz/logo/CCTV17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https:/epg.112114.xyz/logo/浙江卫视.png" group-title="❄️｜卫视频道",浙江卫视
