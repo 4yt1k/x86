@@ -127,12 +127,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/inde
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/惊悚悬疑.png" group-title="🌸| 影剧频道",惊悚悬疑
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-http://frp.jl.cloudns.org:7777/udp/239.37.0.188:5540
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
-http://frp.jl.cloudns.org:7777/udp/239.37.0.187:5540
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://frp.jl.cloudns.org:7777/udp/239.37.0.186:5540
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
@@ -141,8 +135,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/inde
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="🌈| 少儿动画",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
-http://frp.jl.cloudns.org:7777/udp/239.37.1.13:5540
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.cn/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.v1.mk/logo/CNN.png" group-title="🌐｜国际频道",美国CNN
@@ -153,5 +145,5 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/bbc.png" group-title="🌐｜国际频道",英国BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://epg.v1.mk/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台[卡塔尔]
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://epg.v1.mk/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
