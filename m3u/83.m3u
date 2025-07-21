@@ -44,7 +44,7 @@ http://192.168.8.3:35455/yhyx/IP-HUNWS-HD.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="❄️｜卫视频道",东方卫视
 http://192.168.8.3:35455/yhyx/IP-DFWS-HD.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="❄️｜卫视频道",北京卫视
-http://192.168.8.3:35455/yhyx/IP-BJWS-HD.m3u8
+http://192.168.8.3:35455/yhyx/IP-BJWS-4K.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="❄️｜卫视频道",深圳卫视
 http://192.168.8.3:35455/yhyx/IP-SZWS-HD.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="❄️｜卫视频道",天津卫视
@@ -130,7 +130,7 @@ http://192.168.8.3:35455/yhyx/IP-JBTY-HD.m3u8
 #EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8K" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8K
 http://192.168.8.3:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/cctv4K.png" group-title="🎱｜数字频道",CCTV4K
-http://192.168.8.3:35455/bst/cctv4k@15000000
+http://192.168.8.3:35455/yhyx/IP-CCTV-4K.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="🎱｜数字频道",生活时尚
 http://192.168.8.3:35455/bst/shsshd@4000000.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
