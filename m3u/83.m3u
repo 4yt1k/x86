@@ -137,7 +137,7 @@ http://192.168.8.3:35455/nptv/cctv8k.m3u8
 http://192.168.8.3:35455/bst/cctv4k@15000000
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="🎱｜数字频道",生活时尚
 http://192.168.8.3:35455/bst/shsshd@4000000.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://192.168.8.3:35455/bst/jyjs8m@8000000.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="🎱｜数字频道",东方财经
 http://192.168.8.3:35455/bst/dfcjhd4m@4000000.m3u8
@@ -173,5 +173,5 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/bbc.png" group-title="🌐｜国际频道",英国BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://11.112114.xyz/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8

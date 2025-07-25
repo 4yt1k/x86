@@ -165,5 +165,5 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/bbc.png" group-title="🌐｜国际频道",英国BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://11.112114.xyz/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
