@@ -457,7 +457,7 @@ http://bx.757888.xyz/api.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/东森新闻" group-title="🚩｜港•澳•台",东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🚩｜港•澳•台",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
@@ -483,7 +483,7 @@ http://221.7.175.154:8445/tsfile/live/1024_1.m3u8
 http://221.7.175.154:8445/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西综艺旅游.png" group-title="🎱｜数字频道",综艺旅游
 http://221.7.175.154:8445/tsfile/live/1023_1.m3u8
-#EXTINF:-1 tvg-id="广西经济科教" tvg-name="广西经济科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="🎱｜数字频道",经济科教
+#EXTINF:-1 tvg-id="广西经济科教" tvg-name="广西经济科教" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/广西科教.png" group-title="🎱｜数字频道",经济科教
 http://221.7.175.154:8445/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
