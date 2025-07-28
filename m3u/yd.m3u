@@ -159,10 +159,10 @@ http://221.7.175.154:8445/tsfile/live/1013_1.m3u8
 http://221.7.175.154:8445/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-id="广西经济科教" tvg-name="广西经济科教" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/广西科教.png" group-title="🎱｜数字频道",经济科教
 http://221.7.175.154:8445/tsfile/live/1026_1.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="🌈| 少儿动画",浙江少儿
