@@ -399,9 +399,9 @@ http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
 http://1.180.2.93:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🎯｜广深频道",广东珠江
 http://117.141.162.238:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🎯｜广深频道",广东珠江
 http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🎯｜广深频道",广东珠江
 http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="🎯｜广深频道",广东新闻
 http://117.141.162.238:8181/tsfile/live/1005_1.m3u8
