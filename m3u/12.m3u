@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="🌏｜央视频道",CCTV-1综合
-http://36.32.99.130:5003/cctv1.m3u8
+http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
-http://36.32.99.130:5003/cctv2.m3u8
+http://1.180.2.93:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/cctv3.png" group-title="🌏｜央视频道",CCTV-3综艺
-http://36.32.99.130:5003/cctv3.m3u8
+http://1.180.2.93:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/cctv4.png" group-title="🌏｜央视频道",CCTV-4中文国际
-http://36.32.99.130:5003/cctv4.m3u8
+http://1.180.2.93:9901/tsfile/live/1063_1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/cctv5.png" group-title="🌏｜央视频道",CCTV-5体育
 http://36.32.99.130:5003/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/cctv5+.png" group-title="🌏｜央视频道",CCTV-5+体育赛事
-http://36.32.99.130:5003/cctv5p.m3u8
+http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/cctv6.png" group-title="🌏｜央视频道",CCTV-6电影
-http://36.32.99.130:5003/cctv6.m3u8
+http://1.180.2.93:9901/tsfile/live/1064_1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/cctv7.png" group-title="🌏｜央视频道",CCTV-7军事
 http://36.32.99.130:5003/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/cctv8.png" group-title="🌏｜央视频道",CCTV-8电视剧
-http://36.32.99.130:5003/cctv8.m3u8
+http://1.180.2.93:9901/tsfile/live/1065_1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/cctv9.png" group-title="🌏｜央视频道",CCTV-9纪录
-http://36.32.99.130:5003/cctv9.m3u8
+http://1.180.2.93:9901/tsfile/live/1066_1.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/cctv10.png" group-title="🌏｜央视频道",CCTV-10科教
 http://36.32.99.130:5003/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/cctv11.png" group-title="🌏｜央视频道",CCTV-11戏曲
