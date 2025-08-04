@@ -18,7 +18,7 @@ http://117.141.162.238:8181/tsfile/live/faacts/1124_1.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/cctv8.png" group-title="🌏｜央视频道",CCTV-8电视剧
 http://117.141.162.238:8181/tsfile/live/1074_1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/cctv9.png" group-title="🌏｜央视频道",CCTV-9纪录
-http://36.32.99.130:5003/cctv9.m3u8
+http://117.141.162.238:8181/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/cctv10.png" group-title="🌏｜央视频道",CCTV-10科教
 http://117.141.162.238:8181/tsfile/live/1101_1.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/cctv11.png" group-title="🌏｜央视频道",CCTV-11戏曲
@@ -119,8 +119,6 @@ http://117.141.162.238:8181/tsfile/live/1013_1.m3u8
 http://117.141.162.238:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://11.112114.xyz/logo/深圳体育.png" group-title="🎯｜广深频道",深圳体育
 http://117.141.162.238:8181/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://11.112114.xyz/logo/精彩影视.png" group-title="🎯｜广深频道",精彩影视
-http://117.141.162.238:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="🎯｜广深频道",大湾区卫视
 http://117.141.162.238:8181/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/TVB_Plus.jpg" group-title="🚩｜港•澳•台",TVB Plus
@@ -157,6 +155,8 @@ http://117.141.162.238:8181/tsfile/live/1110_1.m3u8
 http://117.141.162.238:8181/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
 http://117.141.162.238:8181/tsfile/live/1121_1.m3u8
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://11.112114.xyz/logo/精彩影视.png" group-title="🌸| 影剧频道",精彩影视
+http://117.141.162.238:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
