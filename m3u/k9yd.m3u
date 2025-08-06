@@ -404,11 +404,11 @@ https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="❄️｜卫视频道",江西卫视
 http://1.180.2.93:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
-http://117.141.162.238:8181/tsfile/live/1044_1.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
 https://mursor.ottiptv.cc/bst/hainwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
 http://36.32.99.237:5003/custom1.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
+http://117.141.162.238:8181/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
 http://1.180.2.93:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="❄️｜卫视频道",辽宁卫视
@@ -615,6 +615,8 @@ http://1.180.2.93:9901/tsfile/live/1012_1.m3u8
 http://221.7.175.154:8445/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://1.180.2.93:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
+http://1.180.2.93:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
 http://117.141.162.238:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="🌈| 少儿动画",广东少儿
