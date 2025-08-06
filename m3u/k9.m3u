@@ -6,11 +6,11 @@ http://221.7.175.154:8445/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="🌏｜央视频道",CCTV-1综合
 https://mursor.ottiptv.cc/bst/cctv1hd@4000000.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
-https://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
 http://221.7.175.154:8445/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
 http://1.180.2.93:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
+https://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/cctv3.png" group-title="🌏｜央视频道",CCTV-3综艺
 http://221.7.175.154:8445/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/cctv3.png" group-title="🌏｜央视频道",CCTV-3综艺
