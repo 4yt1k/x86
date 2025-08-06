@@ -375,6 +375,8 @@ https://mursor.ottiptv.cc/bst/dfcjhd4m@4000000.m3u8
 https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
 https://mursor.ottiptv.cc/bst/hhxdhd@4000000.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
+http://1.180.2.93:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qQmARO&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
@@ -385,6 +387,8 @@ http://1.180.2.93:9901/tsfile/live/1012_1.m3u8
 http://221.7.175.154:8445/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://1.180.2.93:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
+http://1.180.2.93:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="🌈| 少儿动画",少儿4K
 https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
