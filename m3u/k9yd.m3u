@@ -532,6 +532,8 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 http://www.dsk.cc/php/sxgd.php?id=btws&m.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
+http://221.193.214.230:1088/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 http://1.180.2.93:9901/tsfile/live/0115_1.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 http://www.dsk.cc/php/sxgd.php?id=cetv1&m.m3u8
@@ -539,10 +541,12 @@ http://www.dsk.cc/php/sxgd.php?id=cetv1&m.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 http://1.180.2.93:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/TVB_Plus.jpg" group-title="🚩｜港•澳•台",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="🚩｜港•澳•台",TVB Plus
 http://bxtv.3a.ink/api.php?id=tvbp
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/TVB_Plus.jpg" group-title="🚩｜港•澳•台",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="🚩｜港•澳•台",TVB Plus
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="🚩｜港•澳•台",TVB Plus
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
@@ -577,8 +581,12 @@ http://bxtv.3a.ink/api.php?id=18
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
