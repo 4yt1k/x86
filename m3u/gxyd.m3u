@@ -62,7 +62,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="❄️｜卫视频道",贵州卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226384/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226397/index.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="❄️｜卫视频道",山东卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="❄️｜卫视频道",河北卫视
@@ -70,9 +70,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226387/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226383/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226398/index.m3u8
+http://39.150.96.141:65535/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226400/index.m3u8
+http://39.150.96.141:65535/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
@@ -94,7 +94,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https:/11.112114.xyz/logo/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
 http://1.180.2.93:9901/tsfile/live/1068_1.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226402/index.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
@@ -117,18 +117,18 @@ http://bxtv.3a.ink/api.php?id=now
 http://bxtv.3a.ink/api.php?id=wxxw
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="🚩｜港•澳•台",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="🚩｜港•澳•台",明珠台
+http://bxtv.3a.ink/api.php?id=mz
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://11.112114.xyz/logo/美亞電影台.png" group-title="🚩｜港•澳•台",美亞電影台
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="🚩｜港•澳•台",PopC
 http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="🚩｜港•澳•台",明珠台
-http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://11.112114.xyz/logo/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
-http://iptv.4666888.xyz/iptv.php?id=20127
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://11.112114.xyz/logo/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
+http://iptv.4666888.xyz/iptv.php?id=20127
 #EXTINF:-1 tvg-id="18台" tvg-name="18台" tvg-logo="https://11.112114.xyz/logo/18台.png" group-title="🚩｜港•澳•台",18台
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
@@ -143,10 +143,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://11.112114.xyz/logo/深圳体育.png" group-title="⚽️｜体育频道",深圳体育
 http://117.141.162.238:8181/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://11.112114.xyz/logo/纬来体育.png" group-title="⚽️｜体育频道",纬来体育
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/astro.png" group-title="⚽️｜体育频道",Astro
-http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://39.150.96.141:65535/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
@@ -163,8 +159,12 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
 http://117.141.162.238:8181/tsfile/live/1027_1.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
+http://221.193.214.230:1088/hls/104/index.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://117.141.162.238:8181/tsfile/live/1014_1.m3u8
+http://221.193.214.230:1088/hls/105/index.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
+http://221.193.214.230:1088/hls/107/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="🎱｜数字频道",北京纪实
