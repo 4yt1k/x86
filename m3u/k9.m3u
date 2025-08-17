@@ -467,6 +467,10 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 http://iptv.4666888.xyz/iptv.php?id=20174
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://11.112114.xyz/logo/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
+http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/8tv.png" group-title="🚩｜港•澳•台",八度空间
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://11.112114.xyz/logo/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
 http://iptv.4666888.xyz/iptv.php?id=20127
 #EXTINF:-1 tvg-id="18台" tvg-name="18台" tvg-logo="https://11.112114.xyz/logo/18台.png" group-title="🚩｜港•澳•台",18台
