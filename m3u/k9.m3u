@@ -379,14 +379,12 @@ http://iptv.4666888.xyz/iptv.php?id=20118
 http://bxtv.3a.ink/api.php?id=mz
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="🚩｜港•澳•台",明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="🚩｜港•澳•台",明珠台
-http://iptv.4666888.xyz/iptv.php?id=20071
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://11.112114.xyz/logo/澳视澳门.png" group-title="🚩｜港•澳•台",澳视澳门
 http://iptv.4666888.xyz/iptv.php?id=20127
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
