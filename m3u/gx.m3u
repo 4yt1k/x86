@@ -124,9 +124,9 @@ http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="🚩｜港•澳•台",PopC
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://11.112114.xyz/logo/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/8tv.png" group-title="🚩｜港•澳•台",八度空间
@@ -147,6 +147,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://11.112114.xyz/logo/深圳体育.png" group-title="⚽️｜体育频道",深圳体育
 http://117.141.162.238:8181/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="sky" tvg-name="sky" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/sky.png" group-title="⚽️｜体育频道",Sky Sports
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
