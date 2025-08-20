@@ -124,7 +124,7 @@ http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="🚩｜港•澳•台",PopC
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://11.112114.xyz/logo/東森新聞.png" group-title="🚩｜港•澳•台",东森新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://11.112114.xyz/logo/寰宇新闻.png" group-title="🚩｜港•澳•台",寰宇新闻

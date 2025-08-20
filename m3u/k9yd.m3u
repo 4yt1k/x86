@@ -11,6 +11,8 @@ http://39.150.96.141:65535/tsfile/live/0001_1.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="🌏｜央视频道",CCTV-1综合
 http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="🌏｜央视频道",CCTV-1综合
+http://www.dsk.cc/php/sxgd.php?id=cctv1&m.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="🌏｜央视频道",CCTV-2财经
@@ -632,7 +634,7 @@ http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="🚩｜港•澳•台",PopC
 http://iptv.4666888.xyz/iptv.php?id=20118
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://11.112114.xyz/logo/中天新闻台.png" group-title="🚩｜港•澳•台",中天新闻
@@ -771,6 +773,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226417/index.m3u8
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.cn/tv/FoxLive.png" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://11.112114.xyz/logo/CNN.png" group-title="🌐｜国际频道",美国CNN
