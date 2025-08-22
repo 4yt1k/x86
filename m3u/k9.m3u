@@ -463,6 +463,8 @@ http://221.193.214.230:1088/hls/104/index.m3u8
 http://221.193.214.230:1088/hls/105/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
 http://221.193.214.230:1088/hls/107/index.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="🎱｜数字频道",生活时尚
+http://ds.shixd.cn:5957/rtp/239.49.0.97:8000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
@@ -471,6 +473,10 @@ http://gfr.x3322.net:9901/tsfile/live/1103_1.m3u8
 http://ds.shixd.cn:5957/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="🎱｜数字频道",北京纪实
 http://1.180.2.93:9901/tsfile/live/1061_1.m3u8
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://11.112114.xyz/logo/文物宝库.png" group-title="🎱｜数字频道",文物宝库
+http://ds.shixd.cn:5957/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="🎱｜数字频道",东方财经
+http://ds.shixd.cn:5957/rtp/239.49.0.95:8000
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
 http://1.180.2.93:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
