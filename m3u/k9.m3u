@@ -141,7 +141,7 @@ http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
 http://ds.shixd.cn:5957/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
 http://www.dsk.cc/php/sxgd.php?id=cctv16&m.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🎱｜数字频道",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
 https://mursor.ottiptv.cc/mst/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8
