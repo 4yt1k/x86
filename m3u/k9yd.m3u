@@ -153,6 +153,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226373/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1111_1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
 http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🎱｜数字频道",CCTV-16奥林匹克
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/mst/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="🌏｜央视频道",CCTV-17农业农村
@@ -511,16 +514,25 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8
 http://39.150.96.141:65535/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
 http://117.141.162.238:8181/tsfile/live/1110_1.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=09712472649d443ac6150af129249cdc2bd1416876552b9c5e8e8b0e1f53666665e2043130372322fc9ceb4387a91e153f3143bfc4921ca3a9d038d53a2cccd77e61bbf30c884933518de17050
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
 http://39.150.96.141:65535/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
 http://117.141.162.238:8181/tsfile/live/1121_1.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=e0fa21ed62d2d370d8b3582e2fce8438939495b52645ce18f5caf9fa83071b9607d7c0e198693b2f670ab3a0ae1ac4b4d38c00728aaf8fd1d7ad582c2efbe5a08651e82c6c0b06c43b841e14c7
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://117.141.162.238:8181/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://39.150.96.141:65535/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=8ed5d424da20e1e8ee7c400a67b292af85bce1927ca390cc5619d352d9889d4e7e8cb67845c9eb7616a51ff3778d7ee3c07d9d1ace7e0595c117ee70db4900b003eaf50d05950d2ae08fef25d7
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://11.112114.xyz/logo/精彩影视.png" group-title="🌸| 影剧频道",精彩影视
@@ -534,6 +546,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
 http://ds.shixd.cn:5957/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
