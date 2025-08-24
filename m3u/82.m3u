@@ -147,7 +147,7 @@ http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 http://117.141.162.238:8181/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="⚽️｜体育频道",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-#EXTINF:-1 tvg-id="sky" tvg-name="sky" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/sky.png" group-title="⚽️｜体育频道",Sky Sports
+#EXTINF:-1 tvg-id="sky" tvg-name="sky" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/sky.png" group-title="⚽️｜体育频道",天空体育F1
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8
@@ -165,8 +165,10 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 http://ds.shixd.cn:5957/rtp/239.49.0.99:8000
 #EXTINF:-1 tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/4kuhd.png" group-title="🎱｜数字频道",纯享4k
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8k
+https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
-http://ds.shixd.cn:5957/rtp/239.49.0.82:8000
+https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
