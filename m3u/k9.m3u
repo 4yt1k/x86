@@ -525,6 +525,8 @@ https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=e0fa21ed62d2d370d8b3582e
 https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=8ed5d424da20e1e8ee7c400a67b292af85bce1927ca390cc5619d352d9889d4e7e8cb67845c9eb7616a51ff3778d7ee3c07d9d1ace7e0595c117ee70db4900b003eaf50d05950d2ae08fef25d7
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
+http://ds.shixd.cn:5957/rtp/239.49.0.99:8000
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k

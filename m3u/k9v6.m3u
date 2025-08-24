@@ -611,6 +611,8 @@ https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
 http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.20:5146
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
+http://221.193.214.230:1088/hls/110/index.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
 http://117.141.162.238:8181/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
@@ -713,6 +715,8 @@ http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://1.180.2.93:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
 http://ds.shixd.cn:5957/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.222:5146
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
