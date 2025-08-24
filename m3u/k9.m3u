@@ -517,12 +517,6 @@ http://bxtv.3a.ink/api.php?id=gdty
 http://ikuai.haleeyo.cn:9003/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="⚽️｜体育频道",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=09712472649d443ac6150af129249cdc2bd1416876552b9c5e8e8b0e1f53666665e2043130372322fc9ceb4387a91e153f3143bfc4921ca3a9d038d53a2cccd77e61bbf30c884933518de17050
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=e0fa21ed62d2d370d8b3582e2fce8438939495b52645ce18f5caf9fa83071b9607d7c0e198693b2f670ab3a0ae1ac4b4d38c00728aaf8fd1d7ad582c2efbe5a08651e82c6c0b06c43b841e14c7
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
-https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=8ed5d424da20e1e8ee7c400a67b292af85bce1927ca390cc5619d352d9889d4e7e8cb67845c9eb7616a51ff3778d7ee3c07d9d1ace7e0595c117ee70db4900b003eaf50d05950d2ae08fef25d7
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
@@ -533,8 +527,6 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.174:5146
 http://ds.shixd.cn:5957/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
 https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8k
-https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.20:5146
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
@@ -583,8 +575,6 @@ http://bxtv.3a.ink/api.php?id=gdzj
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="🎯｜广深频道",广东影视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://11.112114.xyz/logo/岭南戏曲.png" group-title="🎯｜广深频道",岭南戏曲
-http://117.141.162.238:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://11.112114.xyz/logo/深圳电视剧.png" group-title="🎯｜广深频道",深圳电视剧
 http://ikuai.haleeyo.cn:9003/udp/239.77.1.177:5146
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://11.112114.xyz/logo/深圳电视剧.png" group-title="🎯｜广深频道",深圳电视剧
