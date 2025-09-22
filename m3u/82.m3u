@@ -109,6 +109,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="🚩｜港•澳•台",凤凰香港
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/RTHK32.png" group-title="🚩｜港•澳•台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="🚩｜港•澳•台",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://11.112114.xyz/logo/无线新闻台.png" group-title="🚩｜港•澳•台",无线新闻台
@@ -155,6 +157,10 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://111.8.242.124:4095/tsfile/live/1054_1.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
+http://111.8.242.124:4095/tsfile/live/1038_1.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="🌸| 影剧频道",欢笑剧场
+http://111.8.242.124:4095/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/4kuhd.png" group-title="🎱｜数字频道",纯享4k
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
@@ -202,7 +208,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226419/index.m3u8
+http://111.8.242.124:4095/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
+http://111.8.242.124:4095/tsfile/live/1051_1.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌈| 少儿动画",优漫卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
