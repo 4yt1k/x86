@@ -187,6 +187,8 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.131:5146
 https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=6380749776&sign=5c6fca0d251089ecf385f4fe83b523e1f2ddffb6419ee0a535abe176c8912f3944ca0898f242d584d76a7a5f5c4304ffb62dc7daa5392a0d1e6d06937e80a4d17efc0f6f8473113807a533b3d84575&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.139:5146
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
+http://gfr.x3322.net:9901/tsfile/live/1043_1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=6380749776&sign=69cc05781a5f28cff131beffb74a9e0138e4f284ab4d8b1c9d2e78b9029f1671a3902c3c4728b915a116e1f210ad36cf4d9e193136b015be33eb5ef0c551e005441ebe700665872c07dbeb9411e9f2dd61&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
