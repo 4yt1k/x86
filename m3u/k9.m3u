@@ -242,29 +242,29 @@ http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=6380749776&sign=af5ec01d8ad55fa9ab0457d68c30dccec6ab31e56eee75b50db800c4aa08f42ee44b7532661fc3cb984ba8076b5b721d5981bcaebf720c2ab568f5e14337e0876f236115e8122854a4a351dfe705&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
-http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 http://1.180.2.93:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
+http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=6380749776&sign=d6dd5b6b95511a65c50b6fa9cae2ed21ff7319c31c8c3f17d707e1ffdc615ac3bd8ad3b671a295abc2c330a78977e579dd1d6bd68b598bcf4c4e43dd5b1ee25cc9532c5bd17990d2c66f37628deb8973&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
-http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 http://1.180.2.93:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
+http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 https://live.ottiptv.cc/mcp/gansu.m3u8?userid=6380749776&sign=0a3d90fe0e1d670b8cb784da8dfbd741923e4e81925346450d49c3b7043f5d44c275fc0eb52e7a8f47256596a28f9329d4d9feada31572c48bdcb389693a6e2668742f0f040f98472d9418a287&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
-http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 http://1.180.2.93:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
+http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
 https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=6380749776&sign=714488fe09f01477b34f49bd8b9abb5558256d0cc61da5fb3ac68b3e6a2c6abbbfbd3e98c3fc3688483a226b60a2bfa74ea87129189ba814fa7aa2703b400d9bf309a6e7a249164d53b163c2b8980c&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
-http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
 http://1.180.2.93:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
+http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="❄️｜卫视频道",安徽卫视
 https://live.ottiptv.cc/mcp/anhui.m3u8?userid=6380749776&sign=30d7f88a48276b8dcc9e59d5354bb6332c4061757ac73f987c463b179d5f2524ed1a18d0582c557c27cab2dd39a5d009d0f4544b64b4216235e6ec22c5474f86ee3a6ad3e7796cb2451b7fd722&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="❄️｜卫视频道",安徽卫视
@@ -320,25 +320,25 @@ http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
 https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=6380749776&sign=b291d79d6710d2ae4b46d28d17a09613d59cd842dcac6b250a2df657d06e1b38e63d053612fda0dc491553899e401009f015b1201cd077e73be386083cfbd4509dc0033a4a6276a94fcf8c3e630be0&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
-http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
 http://1.180.2.93:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
+http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.46:5146
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 https://live.ottiptv.cc/mcp/xizang.m3u8?userid=6380749776&sign=4caf68542d91c5b4d544b62e09cef9a97c5ba0f621debff29c21f4c40d2e9f2ea826cff2b9772b87db429fee3faa0d98b87e526c2e9b133dd8a4f50499dee8c1acb2f764f235396f42a17a2154b8&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
-http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 http://1.180.2.93:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
+http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.47:5146
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
 https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=6380749776&sign=4a1e10a55a4d084c41dc41dca98dcfa575ce95029bd2b77125322975eb47101e93b2966d4131d8b91f1ef42a851f923b2d7878b071ee84009fd78e69bef9de83ab1bbe7ece142f068f214ba3631aac37&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
-http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
 http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
+http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
