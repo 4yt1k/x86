@@ -355,6 +355,12 @@ http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8
 http://www.dsk.cc/php/sxgd.php?id=cetv1&m.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 http://1.180.2.93:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
+http://111.8.242.124:4095/tsfile/live/1100_1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
+http://111.8.242.124:4095/tsfile/live/1099_1.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/RTHK32.png" group-title="🚩｜港•澳•台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://ikuai.haleeyo.cn:9003/udp/239.77.1.21:5146
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="⚽️｜体育频道",睛彩青少
