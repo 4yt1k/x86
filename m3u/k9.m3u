@@ -127,10 +127,6 @@ https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=6380749776&sign=bc64c530801fd965a
 http://163.142.186.56:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="🌏｜央视频道",CCTV-16奥林匹克
-http://www.dsk.cc/php/sxgd.php?id=cctv16&m.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="🌏｜央视频道",CCTV-17农业农村
 https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=6380749776&sign=dcca565adc29952ca04ed3e01b30a0a06308c0e8a3fb6e93f34994dab597bfe60113f22f62555e671b582d882f6d5fe4e97f275cc75c8d09c87e13d4d5946260cddc25125e4cb21fa41a34aadbbc&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="🌏｜央视频道",CCTV-17农业农村
@@ -224,7 +220,7 @@ http://ikuai.haleeyo.cn:9003/udp/239.253.43.37:5146
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
 https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=6380749776&sign=3a7947d7d05198a2b5417b4b8b15280dfebc54775f2371fce26bf6b909b4e8a2b87dd9e2dd909e2200947b29e6015bac3f642899737e5e07674b18c6db6121485cfd2556dafe5190deb092560377&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="❄️｜卫视频道",云南卫视
-http://www.dsk.cc/php/sxgd.php?id=ynws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="❄️｜卫视频道",山东卫视
 https://live.ottiptv.cc/mcp/shandong.m3u8?userid=6380749776&sign=5e40a3fa1b1001fe63084843145a76560e6703cb92d60978935e78b9bd0a50f0b0dda6c685a82a22516e4d1d27805d555aab53b6c4669859b9a73bd6a79065cb18818418239353eaa759a05157d4ee17&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="❄️｜卫视频道",山东卫视
@@ -241,16 +237,18 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.148:5146
 https://live.ottiptv.cc/mcp/henan.m3u8?userid=6380749776&sign=0bc819ca15849584356dd8054203c3de40d6154e1b44710db127fa7760455fabf008d4701b4f6a58587cc7b5bc0172d028c7c31e686d7a504b5301009246f3cf5810b444939d2d5095371ac41f&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="❄️｜卫视频道",河南卫视
+http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=6380749776&sign=af5ec01d8ad55fa9ab0457d68c30dccec6ab31e56eee75b50db800c4aa08f42ee44b7532661fc3cb984ba8076b5b721d5981bcaebf720c2ab568f5e14337e0876f236115e8122854a4a351dfe705&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
-http://www.dsk.cc/php/sxgd.php?id=sxiws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="❄️｜卫视频道",山西卫视
 http://1.180.2.93:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=6380749776&sign=d6dd5b6b95511a65c50b6fa9cae2ed21ff7319c31c8c3f17d707e1ffdc615ac3bd8ad3b671a295abc2c330a78977e579dd1d6bd68b598bcf4c4e43dd5b1ee25cc9532c5bd17990d2c66f37628deb8973&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
-http://www.dsk.cc/php/sxgd.php?id=sxws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="❄️｜卫视频道",陕西卫视
 http://1.180.2.93:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
@@ -258,13 +256,13 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 https://live.ottiptv.cc/mcp/gansu.m3u8?userid=6380749776&sign=0a3d90fe0e1d670b8cb784da8dfbd741923e4e81925346450d49c3b7043f5d44c275fc0eb52e7a8f47256596a28f9329d4d9feada31572c48bdcb389693a6e2668742f0f040f98472d9418a287&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
-http://www.dsk.cc/php/sxgd.php?id=gsws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="❄️｜卫视频道",甘肃卫视
 http://1.180.2.93:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
 https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=6380749776&sign=714488fe09f01477b34f49bd8b9abb5558256d0cc61da5fb3ac68b3e6a2c6abbbfbd3e98c3fc3688483a226b60a2bfa74ea87129189ba814fa7aa2703b400d9bf309a6e7a249164d53b163c2b8980c&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
-http://www.dsk.cc/php/sxgd.php?id=nxws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="❄️｜卫视频道",宁夏卫视
 http://1.180.2.93:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="❄️｜卫视频道",安徽卫视
@@ -305,6 +303,8 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.123:5146
 https://live.ottiptv.cc/mcp/jiling.m3u8?userid=6380749776&sign=f1a9d564dc663183115d6663b05db959f437d1ba9e62181a0ce5fbbff4eda33809fe90993d06d19e560a59919b834677e6c9ce82ab81cde3399fff59a4a539e3d52448e2424e9c8338f13408f935&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.150:5146
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
+http://gfr.x3322.net:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="❄️｜卫视频道",黑龙江卫视
 https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=6380749776&sign=8dc819488a620996f4ab3b520b2ee6e862b2a7b58d854b37088930d9602b75f4efc9e52a3da4664f352312bfaa710bae01ebff42555e5c9a5ebd40e62b5b34e12382c1d139b398d1c464546a2d93e6f018aa37aa&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="❄️｜卫视频道",黑龙江卫视
@@ -316,11 +316,11 @@ http://1.180.2.93:9901/tsfile/live/1068_1.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https:/11.112114.xyz/logo/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
 https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=6380749776&sign=56843ecbeef32b526b4f791b2e9c3c81d38e015c19509022e88946ff22711e601d76d75ba69f271f5cb8e9f86f874c0a090d141a40cb617eb5aef4839cae680b26b889436b7c6f14c29ed791b830fd9c4e&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https:/11.112114.xyz/logo/内蒙古卫视.png" group-title="❄️｜卫视频道",内蒙古卫视
-http://www.dsk.cc/php/sxgd.php?id=nmws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
 https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=6380749776&sign=b291d79d6710d2ae4b46d28d17a09613d59cd842dcac6b250a2df657d06e1b38e63d053612fda0dc491553899e401009f015b1201cd077e73be386083cfbd4509dc0033a4a6276a94fcf8c3e630be0&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
-http://www.dsk.cc/php/sxgd.php?id=qhws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="❄️｜卫视频道",青海卫视
 http://1.180.2.93:9901/tsfile/live/0140_1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
@@ -328,7 +328,7 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.46:5146
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 https://live.ottiptv.cc/mcp/xizang.m3u8?userid=6380749776&sign=4caf68542d91c5b4d544b62e09cef9a97c5ba0f621debff29c21f4c40d2e9f2ea826cff2b9772b87db429fee3faa0d98b87e526c2e9b133dd8a4f50499dee8c1acb2f764f235396f42a17a2154b8&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
-http://www.dsk.cc/php/sxgd.php?id=xzws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="❄️｜卫视频道",西藏卫视
 http://1.180.2.93:9901/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
@@ -336,7 +336,7 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.47:5146
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
 https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=6380749776&sign=4a1e10a55a4d084c41dc41dca98dcfa575ce95029bd2b77125322975eb47101e93b2966d4131d8b91f1ef42a851f923b2d7878b071ee84009fd78e69bef9de83ab1bbe7ece142f068f214ba3631aac37&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
-http://www.dsk.cc/php/sxgd.php?id=xjws&m.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="❄️｜卫视频道",新疆卫视
 http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
@@ -345,14 +345,10 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.48:5146
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
 https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=6380749776&sign=a83aa2050d85eedbd398d812a5d9bb317ab547f8cff7ba80a2bf9ef752bd4a465593adca4c366e151572c6b43b0f63f056d94322b5b438a733c4438dab9a81a108a2e01638b205701f714fe0e81676&auth_token=259f55baa330090856302fb170ded094
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="❄️｜卫视频道",兵团卫视
-http://www.dsk.cc/php/sxgd.php?id=btws&m.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=6380749776&sign=b401c294e1024296a214b6103b80716ea3d60367ffc1f7ecec9cab4693a0eb3d83bde4b1e97c742193aa13795ca5e4da89222541d0697833e783c23599ab3d7e3a29061490144fc1163c2af78d&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
-http://www.dsk.cc/php/sxgd.php?id=cetv1&m.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="❄️｜卫视频道",中国教育
 http://1.180.2.93:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
@@ -389,38 +385,26 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.174:5146
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6380749776&sign=3bcc9e1bf8cb7ee41db71ba3664a460d9dc7f855bc263f8461299992817e177f46de89b8ec3d9d3dbce6ae3f2f74fb7999f02eb5a6f4e9334f37fe84991c933803a8cd5426475127c15fce12e11e&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.20:5146
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://221.193.214.230:1088/hls/110/index.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="🎱｜数字频道",央视台球
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.21:5146
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="🎱｜数字频道",高尔夫网球
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.22:5146
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="🎱｜数字频道",风云音乐
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.29:5146
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-http://221.193.214.230:1088/hls/112/index.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.26:5146
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
 https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=6380749776&sign=998435fe9a63a96a16cc6c39167b30e046db54036bca53f84cbbf333ca95fb5a2454839849b343779b84efbe62832ef4e33f28df0d62e4d13340fa9a29cbff0b3d0ee34a0f42197fa401a471&auth_token=259f55baa330090856302fb170ded094
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://221.193.214.230:1088/hls/106/index.m3u8
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.28:5146
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
 https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=6380749776&sign=8815704e2cf39db9455d4a9a3a2e9586b674f820f0b0a923ff294367e3818e4d5539a430665cd915ed93fa3bb9ec2306dbfa60d17afc168567aa7b2ff4cfe87e9e72d639ec27210448198fcd&auth_token=259f55baa330090856302fb170ded094
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-http://221.193.214.230:1088/hls/104/index.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
 https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=6380749776&sign=3d3859faf23cdf84c2c8da70d051c8a3e283caf74944b096ad489bf30b5c92933697e8798dd633a6dcbfa2251d211dcf4494ccc860ca5764627c737d85fc37edb22a96527d426d2dfda8364b&auth_token=259f55baa330090856302fb170ded094
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://221.193.214.230:1088/hls/105/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.24:5146
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
-http://221.193.214.230:1088/hls/107/index.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="🎱｜数字频道",兵器科技
 http://ikuai.haleeyo.cn:9003/udp/239.253.43.18:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="🎱｜数字频道",女性时尚
@@ -469,6 +453,8 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="🌈| 少儿动画",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="🌈| 少儿动画",海南少儿
+http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://1.180.2.93:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
