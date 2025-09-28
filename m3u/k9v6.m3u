@@ -369,6 +369,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1121_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://117.141.162.238:8181/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
+https://live.tv.darwinchow.com/channel/chcyingmidianying?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://11.112114.xyz/logo/精彩影视.png" group-title="🌸| 影剧频道",精彩影视
