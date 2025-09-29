@@ -305,16 +305,10 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.0.48:5146
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226411/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="🚩｜港•澳•台",凤凰资讯
-http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="🚩｜港•澳•台",凤凰中文
-http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="🚩｜港•澳•台",凤凰香港
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="🚩｜港•澳•台",凤凰香港
-http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/RTHK32.png" group-title="🚩｜港•澳•台",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
@@ -341,8 +335,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="⚽️｜体育频道",睛彩广场舞
 http://ikuai.haleeyo.cn:9003/udp/239.77.1.23:5146
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="⚽️｜体育频道",广东体育
-http://bxtv.3a.ink/api.php?id=gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="⚽️｜体育频道",广东体育
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="⚽️｜体育频道",广东体育
@@ -479,8 +471,6 @@ http://117.141.162.238:8181/tsfile/live/1000_1.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🎯｜广深频道",广东珠江
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🎯｜广深频道",广东珠江
-http://bxtv.3a.ink/api.php?id=gdzj
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="🎯｜广深频道",广东新闻
 http://117.141.162.238:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="🎯｜广深频道",广东新闻
