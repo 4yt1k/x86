@@ -110,7 +110,7 @@ http://ikuai.haleeyo.cn:9003/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/cctv13.png" group-title="🌏｜央视频道",CCTV-13新闻
 https://cdn3.163189.xyz/163189/cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/cctv14.png" group-title="🌏｜央视频道",CCTV-14少儿
-https://live.tv.darwinchow.com/channel/cctv13?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+https://live.tv.darwinchow.com/channel/cctv14?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/cctv14.png" group-title="🌏｜央视频道",CCTV-14少儿
 http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/cctv14.png" group-title="🌏｜央视频道",CCTV-14少儿
@@ -402,9 +402,9 @@ https://live.tv.darwinchow.com/channel/chcyingmidianying?livekey=01WWgiR9XeA93GC
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
 https://live.tv.darwinchow.com/channel/heimeidianying?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
-http://111.8.242.124:4095/tsfile/live/1054_1.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
 https://live.tv.darwinchow.com/channel/chongwenjingdian?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
+http://111.8.242.124:4095/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
 https://live.tv.darwinchow.com/channel/dushijuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
@@ -526,9 +526,9 @@ https://live.tv.darwinchow.com/channel/xindongman?livekey=01WWgiR9XeA93GCwBxNc71
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
-http://111.8.242.124:4095/tsfile/live/1051_1.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
 https://live.tv.darwinchow.com/channel/dongmanxiuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
+http://111.8.242.124:4095/tsfile/live/1051_1.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="🌈| 少儿动画",广东少儿
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="🌈| 少儿动画",浙江少儿

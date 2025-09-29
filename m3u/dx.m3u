@@ -50,7 +50,7 @@ http://112.99.193.34:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="❄️｜卫视频道",天津卫视
 http://1.180.2.93:9901/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="❄️｜卫视频道",广西卫视
-http://1.180.2.93:9901/tsfile/live/0113_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="❄️｜卫视频道",湖北卫视
@@ -115,26 +115,36 @@ http://ikuai.haleeyo.cn:9003/udp/239.77.1.177:5146
 http://ikuai.haleeyo.cn:9003/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="🎯｜广深频道",大湾区卫视
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
-http://117.141.162.238:8181/tsfile/live/1110_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://117.141.162.238:8181/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
+https://live.tv.darwinchow.com/channel/chcjiatingyingyuan?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
-http://117.141.162.238:8181/tsfile/live/1121_1.m3u8
+https://live.tv.darwinchow.com/channel/chcdongzuodianying?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://11.112114.xyz/logo/精彩影视.png" group-title="🌸| 影剧频道",精彩影视
+http://117.141.162.238:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
-http://111.8.242.102:4095/tsfile/live/1054_1.m3u8
+http://111.8.242.124:4095/tsfile/live/1054_1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
-http://111.8.242.102:4095/tsfile/live/1038_1.m3u8
+http://111.8.242.124:4095/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="🌸| 影剧频道",欢笑剧场
-http://111.8.242.102:4095/tsfile/live/1040_1.m3u8
+http://111.8.242.124:4095/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
-http://117.141.162.238:8181/tsfile/live/1071_1.m3u8
+https://live.tv.darwinchow.com/channel/fengyunzuqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="🎱｜数字频道",央视台球
+https://live.tv.darwinchow.com/channel/yangshitaiqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="🎱｜数字频道",高尔夫网球
+https://live.tv.darwinchow.com/channel/gaoerfuwangqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="🎱｜数字频道",风云音乐
+https://live.tv.darwinchow.com/channel/fengyunyinyue?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-http://117.141.162.238:8181/tsfile/live/1027_1.m3u8
+https://live.tv.darwinchow.com/channel/fengyunjuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
+https://live.tv.darwinchow.com/channel/diyijuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-http://117.141.162.238:8181/tsfile/live/1014_1.m3u8
+https://live.tv.darwinchow.com/channel/huaijiujuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="🎱｜数字频道",生活时尚
-http://111.8.242.102:4095/tsfile/live/1092_1.m3u8
+http://111.8.242.124:4095/tsfile/live/1092_1.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="🎱｜数字频道",北京纪实
@@ -147,10 +157,16 @@ http://1.180.2.93:9901/tsfile/live/1017_1.m3u8
 http://1.180.2.93:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
 http://1.180.2.93:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
+http://111.8.242.124:4095/tsfile/live/1051_1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="🌈| 少儿动画",嘉佳卡通
 http://117.141.162.238:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="🌈| 少儿动画",广东少儿
 http://117.141.162.238:8181/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="🌈| 少儿动画",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="🌈| 少儿动画",海南少儿
+http://gfr.x3322.net:9901/tsfile/live/1065_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://1.180.2.93:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
