@@ -141,8 +141,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://11.112114.xyz/logo/深圳体育.png" group-title="⚽️｜体育频道",深圳体育
 http://117.141.162.238:8181/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="⚽️｜体育频道",五星体育
-https://live.tv.darwinchow.com/channel/wuxingtiyu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="⚽️｜体育频道",劲爆体育
 http://111.8.242.124:4095/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
@@ -163,38 +161,12 @@ http://111.8.242.124:4095/tsfile/live/1038_1.m3u8
 http://111.8.242.124:4095/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/4kuhd.png" group-title="🎱｜数字频道",纯享4k
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
-https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="🎱｜数字频道",风云足球
-https://live.tv.darwinchow.com/channel/fengyunzuqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="🎱｜数字频道",央视台球
-https://live.tv.darwinchow.com/channel/yangshitaiqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="🎱｜数字频道",高尔夫网球
-https://live.tv.darwinchow.com/channel/gaoerfuwangqiu?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="🎱｜数字频道",风云音乐
-https://live.tv.darwinchow.com/channel/fengyunyinyue?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="🎱｜数字频道",风云剧场
-https://live.tv.darwinchow.com/channel/fengyunjuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="🎱｜数字频道",第一剧场
-https://live.tv.darwinchow.com/channel/diyijuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="🎱｜数字频道",怀旧剧场
-https://live.tv.darwinchow.com/channel/huaijiujuchang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="🎱｜数字频道",世界地理
-https://live.tv.darwinchow.com/channel/shijiedili?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="🎱｜数字频道",兵器科技
-https://live.tv.darwinchow.com/channel/bingqikeji?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="🎱｜数字频道",女性时尚
-https://live.tv.darwinchow.com/channel/nvxingshishang?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="🎱｜数字频道",央视文化精品
-https://live.tv.darwinchow.com/channel/yangshiwenhuajingpin?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="🎱｜数字频道",北京纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226410/index.m3u8
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://11.112114.xyz/logo/文物宝库.png" group-title="🎱｜数字频道",文物宝库
 http://117.141.162.238:8181/tsfile/live/1109_1.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="🎱｜数字频道",第一财经
-https://live.tv.darwinchow.com/channel/diyicaijing?livekey=01WWgiR9XeA93GCwBxNc71UcKWJnsaVVQL6Pl&userkey=e564bd623ab33f42
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="🎱｜数字频道",东方财经
 http://111.8.242.124:4095/tsfile/live/1093_1.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="🎱｜数字频道",生活时尚
