@@ -87,6 +87,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226381/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226394/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="❄️｜卫视频道",海南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="❄️｜卫视频道",三沙卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226405/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="❄️｜卫视频道",辽宁卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="❄️｜卫视频道",吉林卫视
@@ -157,8 +159,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226410/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
