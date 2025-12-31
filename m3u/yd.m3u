@@ -166,9 +166,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
 #EXTINF:-1 tvg-id="纯享4k" tvg-name="纯享4k" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/4kuhd.png" group-title="🎱｜数字频道",纯享4k
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="🎱｜数字频道",CCTV4k
-https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=6380749776&sign=fdcee48275f5baeeb5c9bf1d12c1a7d63c5e1e0aa33d8cacefc6950e54263d47ccfa98b6b78db0848e5b3dd7cabfc8ec69f4858231f04af921eb5f8ab963e061f52fb1f5a473d3306b0db7427da7&auth_token=259f55baa330090856302fb170ded094
+https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=6380749776&sign=65389ce9f2bef5496abec5cb32fccc997a9c560e3cd07031c4b91db401b02259ded5ba47e4545a58ee80fbe2f85c7833f6636a24d8d03d218a1939cc958099beea7b82bbbba636d4ca67e1ea0aff&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="🎱｜数字频道",CCTV8k
-https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6380749776&sign=cb5e9251d5dd19680b0c3381ba4a5810f0aa33105e6ee1786928198526407f50530c6d781dbd385e46a72ad3b68edea6397ca1a220cd80faac53315ea102d2fa9637382a91fdb98f5d62eae084fd&auth_token=259f55baa330090856302fb170ded094
+https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6380749776&sign=ffc850f4079b00d68bb9f9f99eb7f9bd815af68661ec8f1fc8821e2f1320457d6fa603681c03b08a7a16fb95d0ec45ad6a48534f4e3eabeb92fce39adb07236cfd23cf1396fa1b2bddb7efd261a8&auth_token=259f55baa330090856302fb170ded094
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="🎱｜数字频道",金鹰纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="🎱｜数字频道",北京纪实
