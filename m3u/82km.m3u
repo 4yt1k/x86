@@ -119,6 +119,10 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225813/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="🚩｜本地频道",云南少儿频道
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225867/1.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="❤️｜港•澳•台",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="❤️｜港•澳•台",TVB Plus
+http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
