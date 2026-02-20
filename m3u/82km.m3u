@@ -183,7 +183,7 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226410/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226109/1.m3u8
-#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://static.tv.darwinchow.com/logo/FoxLive.png" group-title="🌐｜国际频道",美国Fox
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -191,7 +191,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="🌐｜国际频道",美国ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/cbs.png" group-title="🌐｜国际频道",美国CBS
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cbs.png" group-title="🌐｜国际频道",美国CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://ghfast.top/https://github.com/4yt1k/x86/blob/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
