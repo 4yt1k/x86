@@ -131,6 +131,10 @@ http://tv.groupshare.com.cn/fhtv?id=hk
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="❤️｜港•澳•台",翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="❤️｜港•澳•台",ViuTV
+https://cdn10.163189.xyz/stream/163189/viu/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="❤️｜港•澳•台",TVB Plus
+http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://11.112114.xyz/logo/rthk31.png" group-title="❤️｜港•澳•台",RTHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/Tvbsnews.png" group-title="❤️｜港•澳•台",TVBS新聞
