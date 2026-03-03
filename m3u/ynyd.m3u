@@ -54,9 +54,7 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226111/1.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" group-title="❄️｜卫视频道",广东卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226051/1.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://static.tv.darwinchow.com/logo/广东珠江.png" group-title="❄️｜卫视频道",广东珠江
-http://171.38.107.33:8282/tsfile/live/1066_1.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://static.tv.darwinchow.com/logo/大湾区卫视.png" group-title="🌈| 少儿动画",湾区卫视
-http://171.38.107.33:8282/tsfile/live/1002_1.m3u8
+http://171.38.107.33:8282/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" group-title="❄️｜卫视频道",湖北卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225837/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="❄️｜卫视频道",四川卫视
@@ -173,6 +171,8 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://static.tv.darwinchow.com/logo/广东体育.png" group-title="⚽️｜体育频道",广东体育
 http://171.38.107.33:8282/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.tv.darwinchow.com/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
+http://171.38.107.33:8282/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
 http://171.38.107.33:8282/tsfile/live/1067_1.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://static.tv.darwinchow.com/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
