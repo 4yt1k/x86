@@ -169,6 +169,18 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e5be4c40c42&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="⚽️｜体育频道",五星体育
+https://live.264788.xyz/channel/wuxingtiyu?stream_id=4da40517ff0df252367c2e8fcb39772e&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="⚽️｜体育频道",广东体育
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="🌸| 影剧频道",CHC家庭影院
+https://live.264788.xyz/channel/chcjiatingyingyuan?stream_id=e814fb6928cfae14ab25cb531e1527a5&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="🌸| 影剧频道",CHC动作电影
+https://live.264788.xyz/channel/chcdongzuodianying?stream_id=6c9f8f2e46bb247a6eefcafeb2462c83&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="🌸| 影剧频道",CHC影迷电影
+https://live.264788.xyz/channel/chcyingmidianying?stream_id=b568eb23069b4af6176573414c716708&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/黑莓电影.png" group-title="🌸| 影剧频道",黑莓电影
+https://live.264788.xyz/channel/heimeidianying?stream_id=aab004fb9a1ea1ac66a7d77d35c1a039&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="🌸| 影剧频道",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="🌸| 影剧频道",都市剧场
@@ -223,16 +235,16 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226383/1.m3u8
 https://live.264788.xyz/channel/diyicaijing?stream_id=af47d056a57a10b7120a534e7a1b65ea&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="🎱｜数字频道",东方财经
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226387/1.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
-https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bdad8eedfdd&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🌈| 少儿动画",金鹰卡通
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225669/1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="🌈| 少儿动画",卡酷少儿
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226410/1.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
-https://live.264788.xyz/channel/hahaxuandong?stream_id=31bb417c27b90f80765fae7f4260566a&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="🌈| 少儿动画",动漫秀场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/黑莓动画.png" group-title="🌈| 少儿动画",黑莓动画
+https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bdad8eedfdd&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="🌈| 少儿动画",哈哈炫动
+https://live.264788.xyz/channel/hahaxuandong?stream_id=31bb417c27b90f80765fae7f4260566a&livekey=01Wito7MoInNvCPrZis1DIn1hc5p2jL0OTva0
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="🌐｜国际频道",CGTN英语
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226109/1.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cna.png" group-title="🌐｜国际频道",亚洲新闻
