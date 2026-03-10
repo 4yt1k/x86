@@ -233,9 +233,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.tv.darwinchow.com/logo/CNN.png" group-title="🌐｜国际频道",美国CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="🌐｜国际频道",美国ABC
-http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cbs.png" group-title="🌐｜国际频道",美国CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/bbc.png" group-title="🌐｜国际频道",英国BBC
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/aljazeera.png" group-title="🌐｜国际频道",半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
