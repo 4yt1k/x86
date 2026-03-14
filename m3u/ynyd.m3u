@@ -163,12 +163,8 @@ https://cdn10.163189.xyz/stream/163189/viu/
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="❤️｜港•澳•台",RTHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="❤️｜港•澳•台",寰宇新闻
-https://litv.goiptv.de5.net/litv.php?id=litv-longturn14
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="❤️｜港•澳•台",中天新闻
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森新闻.png" group-title="❤️｜港•澳•台",東森新聞
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/Tvbsnews.png" group-title="❤️｜港•澳•台",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="⚽️｜体育频道",睛彩篮球
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="⚽️｜体育频道",睛彩竞技
