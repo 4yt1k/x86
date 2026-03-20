@@ -153,10 +153,6 @@ http://120.238.5.44:1698/hls/85/index.m3u8
 http://120.238.5.44:1698/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/fhhk.png" group-title="❤️｜港•澳•台",凤凰香港
 http://120.238.5.44:1698/hls/87/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.v1.mk/logo/中天新聞.png" group-title="❤️｜港•澳•台",中天新聞
-http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.v1.mk/logo/寰宇新聞.png" group-title="❤️｜港•澳•台",寰宇新聞
-http://220.135.64.124:5050/of-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="❤️｜港•澳•台",翡翠台
 http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="❤️｜港•澳•台",TVB Plus
@@ -167,6 +163,10 @@ http://r.jdshipin.com/vSJvl
 http://117.141.162.201:18181/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://epg.v1.mk/logo/ASTRO欢喜台.png" group-title="❤️｜港•澳•台",ASTRO欢喜台
 http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.v1.mk/logo/中天新聞.png" group-title="❤️｜港•澳•台",中天新聞
+http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.v1.mk/logo/寰宇新聞.png" group-title="❤️｜港•澳•台",寰宇新聞
+http://220.135.64.124:5050/of-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg.v1.mk/logo/澳視澳門.png" group-title="❤️｜港•澳•台",澳視澳門
 http://120.238.5.44:1698/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="❤️｜港•澳•台",HOY77
