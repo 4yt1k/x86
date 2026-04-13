@@ -72,7 +72,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226387/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="🍀|卫视频道",河南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226383/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="🍀|卫视频道",山西卫视
-http://39.164.138.145:9003/hls/58/index.m3u8
+http://39.164.138.145:9003/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="🍀|卫视频道",陕西卫视
 http://39.164.138.145:9003/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="🍀|卫视频道",甘肃卫视
@@ -139,6 +139,10 @@ http://r.jdshipin.com/Nr5jq
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="❤️|港 澳 台",TVB星河
 http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-id="HUAHEEDAI" tvg-name="HUAHEEDAI" tvg-logo="https://epg.v1.mk/logo/ASTRO欢喜台.png" group-title="❤️|港 澳 台",ASTRO欢喜台
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="❤️|港 澳 台",爱奇艺
+http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="⚽️|体育频道",睛彩篮球
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="⚽️|体育频道",睛彩青少
@@ -182,7 +186,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/NEWTV爱情喜剧.png" group-title="🌸|影剧频道",爱情喜剧
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="🎱|数字频道",风云足球
-http://44010677.xyz:8686/rtp/239.11.0.59:1025
+http://120.238.84.45:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="🎱|数字频道",央视台球
 http://44010677.xyz:8686/rtp/239.11.0.60:1025
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="🎱|数字频道",高尔夫网球
@@ -190,7 +194,7 @@ http://44010677.xyz:8686/rtp/239.11.0.61:1025
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="🎱|数字频道",风云音乐
 http://120.238.84.45:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="🎱|数字频道",风云剧场
-http://120.238.84.45:9901/tsfile/live/1090_1.m3u8
+http://44010677.xyz:8686/rtp/239.11.0.65:1025
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="🎱|数字频道",第一剧场
 http://120.238.84.45:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="🎱|数字频道",怀旧剧场
@@ -208,17 +212,19 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="🎱|数字频道",北京纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226410/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="🌈|少儿动画",嘉佳卡通
-http://44010677.xyz:8686/rtp/239.10.0.200:1025
+http://120.238.84.45:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.v1.mk/logo/广东少儿.png" group-title="🌈|少儿动画",广东少儿
 http://44010677.xyz:8686/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.v1.mk/logo/黑莓动画.png" group-title="🌈|少儿动画",黑莓动画
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="🌈|少儿动画",金鹰卡通
-http://44010677.xyz:8686/rtp/239.11.0.125:1025
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="🌐|国际频道",CGTN英语
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226417/index.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://epg.v1.mk/logo/cna.png" group-title="🌐|国际频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/aljazeera.png" group-title="🌐|国际频道",半岛电视台
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.v1.mk/logo/CNN.png" group-title="🌐|国际频道",美国CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/nbc.png" group-title="🌐|国际频道",美国NBC
@@ -229,5 +235,3 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://gptapi.passwdword.xyz/live/encrypted/M2U4NzVkNTAwNjQyYzA3YWNkODkyNGRhMWMyMGY4MWM6NDRjNDYxZjU1ZTRlYjUzOTAyZWQ2YzgyYTY3YTQ3ZGUxYWViYWQ0YTJlYWQxMTExYTcwZjQyY2FkNWE0M2M3ODM2NTAzNjA5MmZlNzE3ODAzMTE0YWEyYWZkODk1M2NjMzgyYjY3NTk3ODU5MjhlNzAyYWIwYTViMmE2YjZjOGZiYjU0MmQzZTcyOWI4MjU1YWM2NjEwZjQ1OGQ1ZmFjOWIwZTBkZGVmNjg5YTJlNTA3MTk5ZGQ4Mzc3N2JjN2Y5YzNiNjIxMjA1ZDE2YzVkMGJmYjJlMWYzODk2NmI1OGY1ZjVmNWU4YTczNTc3YzI2NzYwMWQ4Yzk1NzYzNWJjMTM0OTEwZmNkODgzYzJkNjcyYzk1N2U1YjZhMDYzNzhmYWEwOWE0MjcyMDc0ZDdkZDAxNThjYTk2MDNkN2ZmYWMwMTAyYzgwMzkxNGE3YjNlZGRjODAyMjcyOWNjNzQxNjM4OWNjYTY5NDUxNjQ1YThjYzYxNmRmNmRiZGY3OWQzN2Q4M2EwZWVjMTdlNDY0NDJlYjQ5ZGMzYTUwN2QzMzI?username=tg_mt6jjkn5
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://epg.v1.mk/logo/BBC.png" group-title="🌐|国际频道",英国BBC
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/aljazeera.png" group-title="🌐|国际频道",半岛电视台
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
