@@ -105,6 +105,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226423/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="🍀|卫视频道",中国教育
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226411/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="💎|超清频道",奥林匹克
+http://223.167.230.46:4022/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="💎|超清频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="💎|超清频道",江苏卫视
@@ -159,8 +161,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="⚽️|体育频道",广东体育
 http://44010677.xyz:8686/rtp/239.10.0.47:1025
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="⚽️|体育频道",劲爆体育
-http://183.237.95.108:9901/tsfile/live/1074_1.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="⚽️|体育频道",五星体育
 http://223.167.230.46:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🌸|影剧频道",CHC家庭影院
