@@ -160,7 +160,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="⚽️|体育频道",广东体育
 http://44010677.xyz:8686/rtp/239.10.0.47:1025
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="⚽️|体育频道",劲爆体育
-http://120.238.84.45:9901/tsfile/live/1105_1.m3u8
+http://183.237.95.108:9901/tsfile/live/1074_1.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="⚽️|体育频道",五星体育
 http://223.167.230.46:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🌸|影剧频道",CHC家庭影院
