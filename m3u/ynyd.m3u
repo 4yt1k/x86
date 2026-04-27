@@ -172,27 +172,27 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="⚽️|体育频道",睛彩竞技
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="⚽️|体育频道",广东体育
-http://183.237.95.108:9901/tsfile/live/1033_1.m3u8
+http://44010677.xyz:8686/rtp/239.10.0.47:1025
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="⚽️|体育频道",五星体育
-http://223.167.230.46:4022/rtp/233.18.204.58:5140
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🌸|影剧频道",CHC家庭影院
 http://111.14.222.117:3333/hls/53/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="🌸|影剧频道",CHC影迷电影
 http://111.14.222.117:3333/hls/63/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🌸|影剧频道",CHC动作电影
-http://223.167.230.46:4022/rtp/233.18.204.174:5140
+http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🌸|影剧频道",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="🌸|影剧频道",都市剧场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226393/1.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🌸|影剧频道",广东影视
-http://183.237.95.108:9901/tsfile/live/1038_1.m3u8
+http://44010677.xyz:8686/rtp/239.11.0.79:1025
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://epg.v1.mk/logo/岭南戏曲.png" group-title="🌸|影剧频道",岭南戏曲
-http://120.238.84.45:9901/tsfile/live/1095_1.m3u8
+http://44010677.xyz:8686/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://static.tv.darwinchow.com/logo/东方影视.png" group-title="🌸|影剧频道",东方影视
-http://223.167.230.46:4022/rtp/233.18.204.55:5140
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.55:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="🌸|影剧频道",欢笑剧场
-http://223.167.230.46:4022/rtp/233.18.204.115:5140
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.115:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="🎱|数字频道",风云足球
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226405/1.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="🎱|数字频道",央视台球
@@ -224,19 +224,19 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226391/1.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="🎱|数字频道",乐游
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226383/1.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="🎱|数字频道",第一财经
-http://223.167.230.46:4022/rtp/233.18.204.59:5140
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.59:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="🎱|数字频道",东方财经
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226387/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="🌈|少儿动画",嘉佳卡通
 http://kent.dzzkent.top:4022/udp/234.1.3.73:5000
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://epg.v1.mk/logo/广东少儿.png" group-title="🌈|少儿动画",广东少儿
-http://183.237.95.108:9901/tsfile/live/1097_1.m3u8
+http://44010677.xyz:8686/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="🌈|少儿动画",金鹰卡通
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225669/1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="🌈|少儿动画",卡酷少儿
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226410/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="🌈|少儿动画",哈哈炫动
-http://223.167.230.46:4022/rtp/233.18.204.54:5140
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="🌈|少儿动画",动漫秀场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="🌐|国际频道",CGTN英语
@@ -251,7 +251,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
 #EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://static.tv.darwinchow.com/logo/FoxLive.png" group-title="🌐|国际频道",美国Fox
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SkyNews" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/sky.png" group-title="🌐|国际频道",天空新闻
-https://gptapi.passwdword.xyz/live/encrypted/M2U4NzVkNTAwNjQyYzA3YWNkODkyNGRhMWMyMGY4MWM6NDRjNDYxZjU1ZTRlYjUzOTAyZWQ2YzgyYTY3YTQ3ZGUxYWViYWQ0YTJlYWQxMTExYTcwZjQyY2FkNWE0M2M3ODM2NTAzNjA5MmZlNzE3ODAzMTE0YWEyYWZkODk1M2NjMzgyYjY3NTk3ODU5MjhlNzAyYWIwYTViMmE2YjZjOGZiYjU0MmQzZTcyOWI4MjU1YWM2NjEwZjQ1OGQ1ZmFjOWIwZTBkZGVmNjg5YTJlNTA3MTk5ZGQ4Mzc3N2JjN2Y5YzNiNjIxMjA1ZDE2YzVkMGJmYjJlMWYzODk2NmI1OGY1ZjVmNWU4YTczNTc3YzI2NzYwMWQ4Yzk1NzYzNWJjMTM0OTEwZmNkODgzYzJkNjcyYzk1N2U1YjZhMDYzNzhmYWEwOWE0MjcyMDc0ZDdkZDAxNThjYTk2MDNkN2ZmYWMwMTAyYzgwMzkxNGE3YjNlZGRjODAyMjcyOWNjNzQxNjM4OWNjYTY5NDUxNjQ1YThjYzYxNmRmNmRiZGY3OWQzN2Q4M2EwZWVjMTdlNDY0NDJlYjQ5ZGMzYTUwN2QzMzI?username=tg_mt6jjkn5
+#EXTINF:-1 tvg-name="TRTWorld" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/TRTWorld.png" group-title="🌐|国际频道",TRTWorld
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://epg.v1.mk/logo/BBC.png" group-title="🌐|国际频道",英国BBC
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
