@@ -1,117 +1,104 @@
-#EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="🌏|央视频道",CCTV-1综合
-http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" group-title="🌏|央视频道",CCTV-2财经
-http://www.lwfz.fun:8800/rtp/239.16.20.2:10020
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" group-title="🌏|央视频道",CCTV-3综艺
-http://www.lwfz.fun:8800/rtp/239.16.20.3:10030
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" group-title="🌏|央视频道",CCTV-4中文国际
-http://www.lwfz.fun:8800/rtp/239.16.20.4:10040
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" group-title="🌏|央视频道",CCTV-5体育
-http://www.lwfz.fun:8800/rtp/239.16.20.53:10530
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" group-title="🌏|央视频道",CCTV-5+体育赛事
-http://www.lwfz.fun:8800/rtp/239.16.20.5:10050
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" group-title="🌏|央视频道",CCTV-6电影
-http://www.lwfz.fun:8800/rtp/239.16.20.6:10060
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" group-title="🌏|央视频道",CCTV-7军事
-http://www.lwfz.fun:8800/rtp/239.16.20.51:10510
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV8.png" group-title="🌏|央视频道",CCTV-8电视剧
-http://www.lwfz.fun:8800/rtp/239.16.20.8:10080
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" group-title="🌏|央视频道",CCTV-9纪录
-http://www.lwfz.fun:8800/rtp/239.16.20.9:10090
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" group-title="🌏|央视频道",CCTV-10科教
-http://www.lwfz.fun:8800/rtp/239.16.20.10:10100
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" group-title="🌏|央视频道",CCTV-11戏曲
-http://www.lwfz.fun:8800/rtp/239.16.20.11:10110
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" group-title="🌏|央视频道",CCTV-12社会与法
-http://www.lwfz.fun:8800/rtp/239.16.20.12:10120
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" group-title="🌏|央视频道",CCTV-13新闻
-http://www.lwfz.fun:8800/rtp/239.16.20.13:10130
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" group-title="🌏|央视频道",CCTV-14少儿
-http://www.lwfz.fun:8800/rtp/239.16.20.14:10140
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" group-title="🌏|央视频道",CCTV-15音乐
-http://www.lwfz.fun:8800/rtp/239.16.20.15:10150
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" group-title="🌏|央视频道",CCTV-17农业农村
-http://www.lwfz.fun:8800/rtp/239.16.20.7:10070
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" group-title="🍀|卫视频道",浙江卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.71:10710
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" group-title="🍀|卫视频道",江苏卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.74:10740
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" group-title="🍀|卫视频道",湖南卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.72:10720
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" group-title="🍀|卫视频道",东方卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.73:10730
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" group-title="🍀|卫视频道",北京卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.76:10760
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视.png" group-title="🍀|卫视频道",深圳卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.77:10770
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://static.tv.darwinchow.com/logo/天津卫视.png" group-title="🍀|卫视频道",天津卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.96:10960
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" group-title="🍀|卫视频道",广西卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.84:10840
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" group-title="🍀|卫视频道",广东卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.98:10980
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" group-title="🍀|卫视频道",湖北卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.87:10870
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="🍀|卫视频道",四川卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.86:10860
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" group-title="🍀|卫视频道",重庆卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" group-title="🍀|卫视频道",贵州卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.81:10810
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" group-title="🍀|卫视频道",云南卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.85:10850
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" group-title="🍀|卫视频道",山东卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.80:10800
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" group-title="🍀|卫视频道",河北卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.88:10880
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" group-title="🍀|卫视频道",河南卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.21:10210
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山西卫视.png" group-title="🍀|卫视频道",山西卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.90:10900
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/陕西卫视.png" group-title="🍀|卫视频道",陕西卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.83:10830
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://static.tv.darwinchow.com/logo/甘肃卫视.png" group-title="🍀|卫视频道",甘肃卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.102:11020
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/宁夏卫视.png" group-title="🍀|卫视频道",宁夏卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.92:10920
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://static.tv.darwinchow.com/logo/安徽卫视.png" group-title="🍀|卫视频道",安徽卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.75:10750
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" group-title="🍀|卫视频道",东南卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.82:10820
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" group-title="🍀|卫视频道",江西卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.89:10890
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" group-title="🍀|卫视频道",海南卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.97:10970
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://static.tv.darwinchow.com/logo/辽宁卫视.png" group-title="🍀|卫视频道",辽宁卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.95:10950
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://static.tv.darwinchow.com/logo/吉林卫视.png" group-title="🍀|卫视频道",吉林卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.94:10940
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/黑龙江卫视.png" group-title="🍀|卫视频道",黑龙江卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.99:10990
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://static.tv.darwinchow.com/logo/内蒙古卫视.png" group-title="🍀|卫视频道",内蒙古卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.91:10910
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" group-title="🍀|卫视频道",青海卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.101:11010
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/西藏卫视.png" group-title="🍀|卫视频道",西藏卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.100:11000
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" group-title="🍀|卫视频道",新疆卫视
-http://www.lwfz.fun:8800/rtp/239.16.20.93:10930
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://static.tv.darwinchow.com/logo/中国教育1台.png" group-title="🍀|卫视频道",中国教育
-http://www.lwfz.fun:8800/rtp/239.16.20.78:10780
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" group-title="🌸|影剧频道",都市剧场
-http://www.lwfz.fun:8800/rtp/239.16.20.38:10380
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场.png" group-title="🌸|影剧频道",欢笑剧场
-http://www.lwfz.fun:8800/rtp/239.16.20.39:10390
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰纪实.png" group-title="🎱|数字频道",金鹰纪实
-http://www.lwfz.fun:8800/rtp/239.16.20.153:11530
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://static.tv.darwinchow.com/logo/生活时尚.png" group-title="🎱|数字频道",生活时尚
-http://www.lwfz.fun:8800/rtp/239.16.20.114:11140
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://static.tv.darwinchow.com/logo/乐游.png" group-title="🎱|数字频道",乐游
-http://www.lwfz.fun:8800/rtp/239.16.20.111:11110
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://static.tv.darwinchow.com/logo/东方财经.png" group-title="🎱|数字频道",东方财经
-http://www.lwfz.fun:8800/rtp/239.16.20.64:10640
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰卡通.png" group-title="🌈|少儿动画",金鹰卡通
-http://www.lwfz.fun:8800/rtp/239.16.10.115:2000
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://static.tv.darwinchow.com/logo/动漫秀场.png" group-title="🌈|少儿动画",动漫秀场
-http://www.lwfz.fun:8800/rtp/239.16.20.40:10400
+#EXTINF:-1,Unknown_1
+http://223.78.65.165:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1,Unknown_2
+http://223.78.65.165:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1,Unknown_3
+http://223.78.65.165:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1,Unknown_4
+http://223.78.65.165:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1,Unknown_5
+http://223.78.65.165:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1,Unknown_6
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1,Unknown_7
+http://223.78.65.165:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1,Unknown_8
+http://223.78.65.165:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1,Unknown_9
+http://223.78.65.165:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1,Unknown_10
+http://223.78.65.165:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1,Unknown_11
+http://223.78.65.165:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1,Unknown_12
+http://223.78.65.165:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1,Unknown_13
+http://223.78.65.165:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1,Unknown_14
+http://223.78.65.165:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1,Unknown_15
+http://223.78.65.165:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1,Unknown_16
+http://223.78.65.165:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1,Unknown_17
+http://223.78.65.165:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1,Unknown_18
+http://223.78.65.165:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1,Unknown_19
+http://223.78.65.165:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1,Unknown_109
+http://223.78.65.165:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1,Unknown_112
+http://223.78.65.165:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1,Unknown_113
+http://223.78.65.165:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1,Unknown_117
+http://223.78.65.165:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1,Unknown_118
+http://223.78.65.165:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1,Unknown_119
+http://223.78.65.165:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1,Unknown_120
+http://223.78.65.165:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1,Unknown_121
+http://223.78.65.165:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1,Unknown_125
+http://223.78.65.165:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1,Unknown_130
+http://223.78.65.165:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1,Unknown_131
+http://223.78.65.165:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1,Unknown_132
+http://223.78.65.165:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1,Unknown_135
+http://223.78.65.165:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1,Unknown_136
+http://223.78.65.165:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1,Unknown_137
+http://223.78.65.165:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1,Unknown_139
+http://223.78.65.165:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1,Unknown_143
+http://223.78.65.165:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1,Unknown_1000
+http://223.78.65.165:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1,Unknown_1001
+http://223.78.65.165:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,Unknown_1002
+http://223.78.65.165:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1,Unknown_1003
+http://223.78.65.165:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,Unknown_1004
+http://223.78.65.165:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1,Unknown_1005
+http://223.78.65.165:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1,Unknown_1006
+http://223.78.65.165:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1,Unknown_1007
+http://223.78.65.165:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1,Unknown_1008
+http://223.78.65.165:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1,Unknown_1009
+http://223.78.65.165:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1,Unknown_1010
+http://223.78.65.165:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1,Unknown_1011
+http://223.78.65.165:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1,Unknown_1012
+http://223.78.65.165:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1,Unknown_1013
+http://223.78.65.165:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1,Unknown_1017
+http://223.78.65.165:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1,Unknown_1020
+http://223.78.65.165:9901/tsfile/live/1020_1.m3u8
