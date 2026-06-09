@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="🌏|央视频道",CCTV-1综合
+webview://https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" group-title="🌏|央视频道",CCTV-2财经
+webview://https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" group-title="🌏|央视频道",CCTV-3综艺
+webview://https://tv.cctv.com/live/cctv3/
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" group-title="🌏|央视频道",CCTV-4中文国际
+webview://https://tv.cctv.com/live/cctv4/
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" group-title="🌏|央视频道",CCTV-5体育
+webview://https://yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" group-title="🌏|央视频道",CCTV-5+体育赛事
+webview://https://yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" group-title="🍀|卫视频道",浙江卫视
+webview://https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" group-title="🍀|卫视频道",江苏卫视
+webview://https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" group-title="🍀|卫视频道",湖南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" group-title="🍀|卫视频道",东方卫视
+webview://https://yangshipin.cn/tv/home?pid=600002483
