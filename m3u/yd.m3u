@@ -111,23 +111,25 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/fhhk.png" group-title="❤️|港 澳 台",凤凰香港
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/Now_News.png" group-title="❤️|港 澳 台",Now新闻台
+https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://static.tv.darwinchow.com/logo/无线新闻台.png" group-title="❤️|港 澳 台",無綫新聞
-http://115.44.140.170:18180/TV00000000000000000034@HHZT
+https://cdn6.163189.xyz/163189/wxxwt
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/hoy78.png" group-title="❤️|港 澳 台",HOY78
-http://115.44.140.170:18180/TV00000000000000000088@HHZT
+https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/RTHK32.png" group-title="❤️|港 澳 台",RTHK32
-http://115.44.140.170:18180/TV00000000000000000017@HHZT
+http://120.234.44.98:18180/TV00000000000000000017@HHZT
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://static.tv.darwinchow.com/logo/翡翠台.png" group-title="❤️|港 澳 台",翡翠台
-http://115.44.140.170:18180/TV00000000000000000032@HHZT
+http://120.234.44.98:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/tvbplus.png" group-title="❤️|港 澳 台",TVB Plus
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="❤️|港 澳 台",ViuTV
-http://115.44.140.170:18180/TV00000000000000000037@HHZT
+http://120.234.44.98:18180/TV00000000000000000037@HHZT
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://static.tv.darwinchow.com/logo/TVB星河.png" group-title="❤️|港 澳 台",TVB星河
 http://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/ASTRO欢喜台.png" group-title="❤️|港 澳 台",ASTRO欢喜台
 http://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/爱奇艺.png" group-title="❤️|港 澳 台",爱奇艺
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/爱奇艺.png" group-title="❤️|港 澳 台",爱奇艺
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩篮球.png" group-title="⚽️|体育频道",睛彩篮球
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8
@@ -137,8 +139,16 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩广场舞.png" group-title="⚽️|体育频道",睛彩广场舞
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://static.tv.darwinchow.com/logo/CHC家庭影院.png" group-title="🌸|影剧频道",CHC家庭影院
+http://you1104.3322.org:8188/rtp/225.1.2.214:11422
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC影迷电影.png" group-title="🌸|影剧频道",CHC影迷电影
+http://you1104.3322.org:8188/rtp/225.1.2.210:11398
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC动作电影.png" group-title="🌸|影剧频道",CHC动作电影
+http://you1104.3322.org:8188/rtp/225.1.2.215:11428
 #EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/重温经典.png" group-title="🌸|影剧频道",重温经典
-http://8.138.7.223/tv/cwjd.php
+http://110.53.235.13:19901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" group-title="🌸|影剧频道",都市剧场
+http://www.niuin.com:4022/rtp/239.21.2.90:5002
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://static.tv.darwinchow.com/logo/黑莓电影.png" group-title="🌸|影剧频道",黑莓电影
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精品大剧.png" group-title="🌸|影剧频道",精品大剧
@@ -147,6 +157,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV爱情喜剧.png" group-title="🌸|影剧频道",爱情喜剧
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV中国功夫.png" group-title="🌸|影剧频道",中国功夫
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰纪实.png" group-title="🎱|数字频道",金鹰纪实
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://static.tv.darwinchow.com/logo/北京纪实科教.png" group-title="🎱|数字频道",北京纪实
@@ -155,19 +167,23 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226410/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" group-title="🌈|少儿动画",卡酷少儿
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226440/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://static.tv.darwinchow.com/logo/黑莓动画.png" group-title="🌈|少儿动画",黑莓动画
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" group-title="🌐|国际频道",CGTN英语
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226417/index.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cna.png" group-title="🌐|国际频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/aljazeera.png" group-title="🌐|国际频道",半岛新闻
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/nbc.png" group-title="🌐|国际频道",美国NBC
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
+#EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://static.tv.darwinchow.com/logo/FoxLive.png" group-title="🌐|国际频道",美国Fox
+https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/newsmax.png" group-title="🌐|国际频道",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://static.tv.darwinchow.com/logo/CNN.png" group-title="🌐|国际频道",美国CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/nbc.png" group-title="🌐|国际频道",美国NBC
-https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
-#EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://static.tv.darwinchow.com/logo/FoxLive.png" group-title="🌐|国际频道",美国Fox
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRTWorld" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/TRTWorld.png" group-title="🌐|国际频道",TRTWorld
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="SKY" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/sky.png" group-title="🌐|国际频道",天空新闻
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/bbc.png" group-title="🌐|国际频道",英国BBC
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
