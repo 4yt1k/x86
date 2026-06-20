@@ -169,6 +169,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226440/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://static.tv.darwinchow.com/logo/黑莓动画.png" group-title="🌈|少儿动画",黑莓动画
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://static.tv.darwinchow.com/logo/动漫秀场.png" group-title="🌈|少儿动画",动漫秀场
+http://www.niuin.com:4022/rtp/239.21.2.92:5002
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" group-title="🌐|国际频道",CGTN英语
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226417/index.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/cna.png" group-title="🌐|国际频道",亚洲新闻
@@ -187,3 +189,5 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/bbc.png" group-title="🌐|国际频道",英国BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="TRTWorld" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/TRTWorld.png" group-title="🌐|国际频道",TRTWorld
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
