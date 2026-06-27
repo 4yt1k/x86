@@ -54,7 +54,7 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226111/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" group-title="🍀|卫视频道",广东卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226051/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://static.tv.darwinchow.com/logo/广东珠江.png" group-title="🍀|卫视频道",广东珠江
-http://home.szjim.top:4000/rtp/239.77.0.114:5146
+http://44010677.xyz:8686/rtp/239.10.0.63:1025
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" group-title="🍀|卫视频道",湖北卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225837/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="🍀|卫视频道",四川卫视
@@ -172,19 +172,19 @@ http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/爱奇艺.png" group-title="❤️|港 澳 台",爱奇艺
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩篮球.png" group-title="⚽️|体育频道",睛彩篮球
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩竞技.png" group-title="⚽️|体育频道",睛彩竞技
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩青少.png" group-title="⚽️|体育频道",睛彩青少
-http://home.szjim.top:4000/rtp/239.77.1.22:5146
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩竞技.png" group-title="⚽️|体育频道",睛彩竞技
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩广场舞.png" group-title="⚽️|体育频道",睛彩广场舞
-http://home.szjim.top:4000/rtp/239.77.1.23:5146
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 #EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/重温经典.png" group-title="🌸|影剧频道",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://static.tv.darwinchow.com/logo/广东影视.png" group-title="🌸|影剧频道",广东影视
-http://home.szjim.top:4000/rtp/239.77.0.217:5146
+http://44010677.xyz:8686/rtp/239.11.0.79:1025
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://static.tv.darwinchow.com/logo/岭南戏曲.png" group-title="🌸|影剧频道",岭南戏曲
-http://home.szjim.top:4000/rtp/239.77.0.122:5146
+http://44010677.xyz:8686/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" group-title="🌸|影剧频道",都市剧场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226393/1.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://static.tv.darwinchow.com/logo/风云足球.png" group-title="🎱|数字频道",风云足球
@@ -220,9 +220,9 @@ http://111.40.34.235:907/hls/61/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://static.tv.darwinchow.com/logo/生活时尚.png" group-title="🎱|数字频道",生活时尚
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226391/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://static.tv.darwinchow.com/logo/嘉佳卡通.png" group-title="🌈|少儿动画",嘉佳卡通
-http://home.szjim.top:4000/rtp/239.77.0.179:5146
+http://44010677.xyz:8686/rtp/239.10.0.200:1025
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://static.tv.darwinchow.com/logo/广东少儿.png" group-title="🌈|少儿动画",广东少儿
-http://home.szjim.top:4000/rtp/239.77.0.250:5146
+http://44010677.xyz:8686/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰卡通.png" group-title="🌈|少儿动画",金鹰卡通
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225669/1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" group-title="🌈|少儿动画",卡酷少儿
