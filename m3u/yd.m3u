@@ -140,11 +140,11 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩广场舞.png" group-title="⚽️|体育频道",睛彩广场舞
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://static.tv.darwinchow.com/logo/CHC家庭影院.png" group-title="🌸|影剧频道",CHC家庭影院
-http://you1104.3322.org:8188/rtp/225.1.2.214:11422
+http://tv.zhangzp.top:4022/udp/234.1.3.6:5000
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC影迷电影.png" group-title="🌸|影剧频道",CHC影迷电影
-http://you1104.3322.org:8188/rtp/225.1.2.210:11398
+http://tv.zhangzp.top:4022/udp/234.1.3.9:5000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC动作电影.png" group-title="🌸|影剧频道",CHC动作电影
-http://you1104.3322.org:8188/rtp/225.1.2.215:11428
+http://tv.zhangzp.top:4022/udp/234.1.3.7:5000
 #EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/重温经典.png" group-title="🌸|影剧频道",重温经典
 http://110.53.235.13:19901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" group-title="🌸|影剧频道",都市剧场
