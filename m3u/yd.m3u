@@ -134,23 +134,23 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/fhhk.png" group-title="❤️|港 澳 台",凤凰香港
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/Now_News.png" group-title="❤️|港 澳 台",Now新闻台
-https://cdn.qd.je/163189.php?id=now
+https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://static.tv.darwinchow.com/logo/无线新闻台.png" group-title="❤️|港 澳 台",無綫新聞
-https://cdn.qd.je/163189.php?id=wxxw
+https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/hoy78.png" group-title="❤️|港 澳 台",HOY78
-https://cdn.qd.je/163189.php?id=hoy78
+https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/RTHK32.png" group-title="❤️|港 澳 台",RTHK32
-https://cdn.qd.je/163189.php?id=rthk32
+https://cdn.qd.je/163189/rthk32
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://static.tv.darwinchow.com/logo/翡翠台.png" group-title="❤️|港 澳 台",翡翠台
-https://cdn.qd.je/163189.php?id=fct
+https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://static.tv.darwinchow.com/logo/翡翠台.png" group-title="❤️|港 澳 台",华丽翡翠台
-https://cdn.qd.je/163189.php?id=jade
+https://cdn.qd.je/163189/jade
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/tvbplus.png" group-title="❤️|港 澳 台",TVB Plus
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="❤️|港 澳 台",ViuTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://static.tv.darwinchow.com/logo/TVB星河.png" group-title="❤️|港 澳 台",TVB星河
-https://cdn.qd.je/163189.php?id=xinghe
+https://cdn.qd.je/163189/xinghe
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩篮球.png" group-title="⚽️|体育频道",睛彩篮球
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩青少.png" group-title="⚽️|体育频道",睛彩青少
